@@ -1,7 +1,7 @@
 
 # SentinelsGate
 
-Fetching System Call Service Numbers From The Guard Control Flow Function Table.
+Fetching System Call Service Numbers From The Control Flow Guard Function Table.
 
 ## Acknowledgements
 
